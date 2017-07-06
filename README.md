@@ -689,7 +689,7 @@ this.$router.go(-1)     // 히스토리 스택에서 앞 또는 뒤로 이동하
 ##### 트랜지션
 > 컴포넌트 진출입시 애니메이션을 적용할 수 있다.
 
-[<img src="http://www.soreply.com/images/transition.png">]
+<img src="http://www.soreply.com/images/transition.png">
 - transition의 이름을 정의하면 모든 클래스는 v대신 이름을 사용한다. (ex: fade-enter, fade-leave-to 등)
 
 ``` html
